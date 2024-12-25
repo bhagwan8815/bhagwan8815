@@ -1,10 +1,7 @@
 <h1 align="center">Hi 👋, I'm BhagwanSingh Rana</h1>
 <h3 align="center">Driven Third year CS student with a passion for Web Development MERN. Skilled in Java, React, NodeJS and DSA. Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bhagwan8815&label=Profile%20views&color=0e75b6&style=flat" alt="bhagwan8815" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bhagwan8815" alt="bhagwan8815" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="![Uploading image.png…]()
+">
 - 👨‍💻 All of my projects are available at [https://bhagwan8815.github.io/PORTFOLIO/](https://bhagwan8815.github.io/PORTFOLIO/)
 
 - 📫 How to reach me **ranabhagwan8815@gmail.com**
