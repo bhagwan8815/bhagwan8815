@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BhagwanSingh Rana</h1>
-<h3 align="center">Driven Final year CS student with a passion for Web Development MERN. Skilled in Java, React, NodeJS and DSA. Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities</h3>
+<h3 align="center">Driven Final year CS student with a passion for Web Development MERN and Spring Boot. Skilled in Java, Python, React, NodeJS and DSA. Seeking a challenging Software Engineer role to contribute to innovative projects and build impactful applications. Open to new opportunities</h3>
 
 - 👨‍💻 All of my projects are available at [bhagwanrana.vercel.app](bhagwanrana.vercel.app)
 
