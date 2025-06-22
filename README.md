@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm BhagwanSingh Rana</h1>
-<h3 align="center">🚀 Final Year CS Student | Java & MERN Stack Developer | Open to Opportunities</h3>
+<h3 align="center">🚀 Final Year CS Student | Java Spring Boot & MERN Stack Developer | Open to Opportunities</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=bhagwan8815&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -12,7 +12,7 @@
 - 🎓 Final Year B.Tech CSE Student  
 - 💻 Passionate about Web Development (MERN & Spring Boot)  
 - 🔧 Skilled in Java, Spring Boot, React, Node.js, Express, MongoDB, MySQL, Python, DSA  
-- 🚀 Exploring Generative AI & Machine Learning  
+- 🚀 Exploring AWS 
 - 💼 Open to Software Developer Internships / Full-time Roles  
 - 🌐 Portfolio: [bhagwanrana.vercel.app](https://bhagwanrana.vercel.app)  
 - 📫 Reach me at: **ranabhagwan8815@gmail.com**
